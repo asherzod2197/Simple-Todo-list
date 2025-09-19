@@ -1,1 +1,1 @@
-# Oddiy-Todo-list
+# Simple-Todo-list
